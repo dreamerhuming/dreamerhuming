@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm Ming Hu, a surveying and mapping engineer, an autonomous driving developer, and a dreamer.
+
+<!--
+🔭 I’m currently working on [Project Name]  
+🌱 I’m learning [Technology/Topic]  
+💬 Ask me about [Your Expertise]  
+-->
+📫 How to reach me: [huming100@gmail](mailto:huming100@gmail)  
+
 <!--
 **dreamerhuming/dreamerhuming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
